@@ -1,4 +1,6 @@
 {
+  "name": "react-scripts",
+  "version": "0.6.1",
   "private": true,
   "scripts": {
     "build": "node packages/react-scripts/scripts/build.js",
