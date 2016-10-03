@@ -11,12 +11,6 @@
     "start": "node packages/react-scripts/scripts/start.js",
     "test": "node packages/react-scripts/scripts/test.js --env=jsdom"
   },
-  "dependencies": {
-    "poststylus": "0.2.3",
-    "rucksack-css": "0.8.6",
-    "stylus": "0.54.5",
-    "stylus-loader": "2.1.2"
-  },
   "devDependencies": {
     "babel-eslint": "6.1.2",
     "eslint": "3.5.0",

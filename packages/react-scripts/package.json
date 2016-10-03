@@ -65,7 +65,11 @@
     "url-loader": "0.5.7",
     "webpack": "1.13.2",
     "webpack-dev-server": "1.16.1",
-    "whatwg-fetch": "1.0.0"
+    "whatwg-fetch": "1.0.0",
+    "poststylus": "0.2.3",
+    "rucksack-css": "0.8.6",
+    "stylus": "0.54.5",
+    "stylus-loader": "2.1.2"
   },
   "devDependencies": {
     "bundle-deps": "1.0.0",
